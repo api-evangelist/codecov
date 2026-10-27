@@ -64,5 +64,29 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Codecov is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://about.codecov.io/
+Codecov provides a code coverage testing and insights platform that helps development teams improve code quality. It offers AI‑generated unit tests, pull‑request reviews, and detailed coverage analytics across multiple languages and CI systems. The service includes integrations with GitHub, GitLab, Bitbucket, Sentry, and many other tools, plus enterprise features like custom dashboards, security scanning, and support options. Codecov aims to make testing faster and more reliable, enabling faster releases and higher software quality.
+
+**Areas:** Company · Code Coverage · CI/CD · DevOps · Testing · Analytics
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://about.codecov.io/)
+- [Documentation](https://docs.codecov.com/)
+- [Getting started](https://docs.codecov.com/docs/quick-start)
+- [API reference](https://docs.codecov.com/reference)
+- [Pricing](https://about.codecov.io/pricing)
+- [Sign up](https://about.codecov.io/sign-up/)
+- [Support](https://about.codecov.io/contact/)
+- [Blog](https://about.codecov.io/blog)
+- [Security](https://about.codecov.io/security/)
+- [Compliance](https://about.codecov.io/security/)
+- [Terms of service](https://about.codecov.io/terms-and-conditions/)
+- [GitHub](https://github.com/enterprise)
+
+**APIs profiled:** 13
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/codecov/](https://apis.io/providers/codecov/).
